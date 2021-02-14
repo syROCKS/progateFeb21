@@ -174,7 +174,7 @@ header {
 }
 
 .precautions-wrapper {
-    height:1150px;
+    height:1000px;
     background-color: rgb(29, 29, 29);
 }
 
@@ -194,7 +194,7 @@ header {
     font-size:50px;
     display: inline-block;
     border-bottom: 1px solid black;
-    margin-left:570px;
+    margin-left:430px;
 }
 
 .precautions li {
@@ -204,13 +204,13 @@ header {
 }
 
 .precautions-pics {
-    height:500px;
+    height:400px;
 }
 
 .precautions-pics img {
     height:100%;
-    padding-right:80px;
-    padding-left:50px;
+    padding-right:60px;
+    padding-left:30px;
 }
 
 .message-wrapper {
